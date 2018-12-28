@@ -62,6 +62,3 @@ lm = linear_model.LinearRegression()
 modell = lm.fit(x1,y1) ## Note order!
 predictionss = lm.predict(x1)
 
-# Whatyp
-
-#change 2

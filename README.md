@@ -1,2 +1,3 @@
 # Econometrics
-Python Regressions
+Simple regressions using Python 
+- meant for school projects
